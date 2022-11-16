@@ -23,7 +23,7 @@ function Razm(){
                     </div>
                     <p class="item_le"> Lagoona Espanola </p>
                     <p class="razm_description">Барселона, Испания. </p>
-                    <a class="razm_button"> Номера </a>
+                    <a class="razm_button" href = "/"> Номера </a>
                 </div>
             </div>
 
@@ -44,7 +44,7 @@ function Razm(){
                     </div>
                     <p class="item_le"> Lagoona Espanola </p>
                     <p class="razm_description">Барселона, Испания. </p>
-                    <a class="razm_button"> Номера </a>
+                    <a class="razm_button" href = "/"> Номера </a>
                 </div>
             </div>
 
@@ -65,7 +65,7 @@ function Razm(){
                     </div>
                     <p class="item_le"> Lagoona Espanola </p>
                     <p class="razm_description">Барселона, Испания. </p>
-                    <a class="razm_button"> Номера </a>
+                    <a class="razm_button" href = "/"> Номера </a>
                 </div>
             </div>
 
@@ -86,7 +86,7 @@ function Razm(){
                     </div>
                     <p class="item_le"> Lagoona Espanola </p>
                     <p class="razm_description">Барселона, Испания. </p>
-                    <a class="razm_button"> Номера </a>
+                    <a class="razm_button" href = "/"> Номера </a>
                 </div>
             </div>
 
@@ -107,7 +107,7 @@ function Razm(){
                     </div>
                     <p class="item_le"> Lagoona Espanola </p>
                     <p class="razm_description">Барселона, Испания. </p>
-                    <a class="razm_button"> Номера </a>
+                    <a class="razm_button" href = "/"> Номера </a>
                 </div>
             </div>
 
@@ -128,7 +128,7 @@ function Razm(){
                     </div>
                     <p class="item_le"> Lagoona Espanola </p>
                     <p class="razm_description">Барселона, Испания. </p>
-                    <a class="razm_button"> Номера </a>
+                    <a class="razm_button" href = "/"> Номера </a>
                 </div>
             </div>
 
@@ -149,7 +149,7 @@ function Razm(){
                     </div>
                     <p class="item_le"> Lagoona Espanola </p>
                     <p class="razm_description">Барселона, Испания. </p>
-                    <a class="razm_button"> Номера </a>
+                    <a class="razm_button" href = "/"> Номера </a>
                 </div>
             </div>
 
@@ -170,12 +170,12 @@ function Razm(){
                     </div>
                     <p class="item_le"> Lagoona Espanola </p>
                     <p class="razm_description">Барселона, Испания. </p>
-                    <a class="razm_button"> Номера </a>
+                    <a class="razm_button" href = "/"> Номера </a>
                 </div>
             </div>
 
             <div class="razm_item_new razm_item9">
-                <a href="">
+                <a href="/">
                     <div class="it_new_arrow">
                         <h3 class="headtext_it_new"> Посмотреть все варианты </h3>
                         <img class="arrow" src={rightarrow} alt = "arrow"/>

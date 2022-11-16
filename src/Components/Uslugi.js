@@ -7,24 +7,24 @@ function Uslugi(){
 
                 <div class="first_usl">
                     
-                    <h3 class="head_txt_usl"> <a class="usl_href" href=""> Эксклюзивное обслуживание </a> </h3>
+                    <h3 class="head_txt_usl"> <a class="usl_href" href="/"> Эксклюзивное обслуживание </a> </h3>
                     <p class="description_usl_item">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Asperiores, ea nulla numquam, atque deserunt, aspernatur illo repellat.</p>
                 </div>
     
                 
                 <div class="second_usl">
-                    <h3 class="head_txt_usl"> <a class="usl_href" href=""> Аренда банкетных залов </a> </h3>
+                    <h3 class="head_txt_usl"> <a class="usl_href" href="/"> Аренда банкетных залов </a> </h3>
                     <p class="description_usl_item">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Asperiores, ea nulla numquam, atque deserunt, aspernatur illo repellat.</p>
                 </div>
 
         
                 <div class="three_usl">
-                    <h3 class="head_txt_usl"> <a class="usl_href" href=""> Сауны, бассейны, бани, фитнес-залы </a> </h3>
+                    <h3 class="head_txt_usl"> <a class="usl_href" href="/"> Сауны, бассейны, бани, фитнес-залы </a> </h3>
                     <p class="description_usl_item">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Asperiores, ea nulla numquam, atque deserunt, aspernatur illo repellat.</p>
                 </div>
             
                 <div class="four_usl">
-                    <h3 class="head_txt_usl"> <a class="usl_href" href="">  Охраняемые автомобильные стоянки </a> </h3>
+                    <h3 class="head_txt_usl"> <a class="usl_href" href="/">  Охраняемые автомобильные стоянки </a> </h3>
                     <p class="description_usl_item">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Asperiores, ea nulla numquam, atque deserunt, aspernatur illo repellat.</p>
                 </div>
             

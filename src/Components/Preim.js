@@ -12,48 +12,48 @@ function Preim(){
     <section class="container preim_block">
         
         <div class="no_head"> 
-                <img class="icon_preim" src={pl1} alt="preim image"/>
+                <img class="icon_preim" src={pl1} alt="preimimage"/>
                  <p class="preim_description"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis dolorum </p> 
             
         </div>
 
         <div class="no_head no_h1">
-            <img class="icon_preim" src={pl2} alt="preim image"/>
+            <img class="icon_preim" src={pl2} alt="preimimage"/>
                 <p class="preim_description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis dolorum  </p>
         </div>
 
         <div class="no_head no_h1"> 
-            <img class="icon_preim" src={pl3} alt="preim image"/>
+            <img class="icon_preim" src={pl3} alt="preimimage"/>
                 <p class="preim_description"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis dolorum </p>
             
         </div>
 
         <div class="no_head no_h1">
-            <img class="icon_preim" src={pl4} alt="preim image"/>
+            <img class="icon_preim" src={pl4} alt="preimimage"/>
             <p class="preim_description"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis dolorum </p>
             
         </div>
 
         <div class="no_head">
-            <img class="icon_preim" src={pl5} alt="preim image"/>
+            <img class="icon_preim" src={pl5} alt="preimimage"/>
             <p class="preim_description"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis dolorum. </p>
             
         </div>
 
         <div class="no_head no_h1">
-            <img class="icon_preim" src={pl6} alt="preim image"/>
+            <img class="icon_preim" src={pl6} alt="preimimage"/>
                     <p class="preim_description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis dolorum </p>
              
         </div>
 
         <div class="no_head no_h1"> 
-            <img class="icon_preim" src={pl7} alt="preim image"/>
+            <img class="icon_preim" src={pl7} alt="preimimage"/>
                 <p class="preim_description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis dolorum </p>
             
         </div>
 
         <div class="no_head no_h1"> 
-            <img class="icon_preim" src={pl8} alt="preim image"/>
+            <img class="icon_preim" src={pl8} alt="preimimage"/>
                  <p class="preim_description"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis dolorum.</p>
             
         </div>

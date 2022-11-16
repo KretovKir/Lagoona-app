@@ -33,7 +33,7 @@ function Contacts(){
                     <div class="address_line"></div>
 
                     <div class="marsh_href">
-                        <a class="marsh_href_content" href="">
+                        <a class="marsh_href_content" href="/">
                             Построить маршрут
                         </a>
                     </div>
